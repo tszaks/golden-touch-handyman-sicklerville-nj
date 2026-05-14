@@ -1,0 +1,101 @@
+{
+  "place_id": "ChIJV8rTbaHTxokR_bfQGAyiBRM",
+  "name": "A GOLDEN TOUCH HANDYMAN",
+  "phone": "(609) 991-4653",
+  "phone_digits": "(609) 991-4653",
+  "address": "68 Presidential Dr, Sicklerville, NJ 08081, USA",
+  "rating": "4.7",
+  "review_count": "173",
+  "hours": "Monday: Open 24 hours | Tuesday: Open 24 hours | Wednesday: Open 24 hours | Thursday: Open 24 hours | Friday: Open 24 hours",
+  "types": [
+    "general_contractor",
+    "roofing_contractor",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "confirmed_services": [
+    "roof replacement",
+    "roof repair",
+    "drywall",
+    "doors windows",
+    "fixtures",
+    "fixture"
+  ],
+  "reviews": [
+    {
+      "stars": 5,
+      "author": "Ki",
+      "text": "Golden and his team delivered professional, high-quality, and efficient work with quick turnaround times. I wish I had taken before photos, but it hardly matters now because our bathroom looks absolutely exquisite \u2014 like a five-star hotel at home. Golden offered recommendations we hadn\u2019t even considered, and they turned out beautifully. His skill set and attention to detail truly stand out. I will definitely be referring him to family and friends.\n\nUpdating my previous review:\nGolden and his team also did a few upgrades to our basement - adding recess lighting, baseboards, building an entertainment wall with fire place and enclosing one side to create a dedicated gym space. The last two  pictures show the before and after of the gym side with the additional wall."
+    },
+    {
+      "stars": 5,
+      "author": "Sharon Golczewski",
+      "text": "I had the high ceiling lights installed by this handyman company. Very good service with reasonable price. They handled the each piece of the light very carefully and helped to identify the broken issue of some glass plates and said would come to replace it once the replacement part is delivered. Very happy with their service. A reliable handyman company that you can hire to use."
+    },
+    {
+      "stars": 5,
+      "author": "Lincy Celestin-Phillips",
+      "text": "I had electrical wiring added to two bedrooms that previously had no ceiling lighting. A ceiling fan was installed in one bedroom and a light fixture in the other. A Golden Touch Handyman team did a great job, pricing was reasonable, and they provided a date to start the job less then a week of my initial text.\n\nGolden responded quickly, and by sending photos I was able to get pricing right away. I\u2019ve had several projects done with this company and they\u2019ve always been reliable, punctual, and efficient. I highly recommend them and look forward to using them again."
+    }
+  ],
+  "website_check": {
+    "places_api": null,
+    "exa_search": "exa_error: HTTP Error 402: Payment Required",
+    "domain_check": null
+  },
+  "valid_target": true,
+  "website_evidence": [],
+  "email": "golden.stewartv@agoldentouchhandyman.com",
+  "city": "Sicklerville",
+  "state": "NJ",
+  "zip": "08081",
+  "business_name": "A Golden Touch Handyman",
+  "trade": "handyman",
+  "schema_type": "HomeAndConstructionBusiness",
+  "years_in_business": 5,
+  "railway_url": "",
+  "canonical_url": "",
+  "lat": 40.2,
+  "lng": -75.3,
+  "service_descriptions": {
+    "roof replacement": "Professional roof replacement service.",
+    "roof repair": "Professional roof repair service.",
+    "drywall": "Drywall installation, patching, and finishing for walls and ceilings of any size.",
+    "doors windows": "Door and window installation, adjustment, weatherstripping, and hardware repair.",
+    "fixtures": "Fixture installation including light fixtures, ceiling fans, and bathroom accessories.",
+    "fixture": "Fixture installation including light fixtures, ceiling fans, and bathroom accessories."
+  },
+  "faqs": [
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes, we provide free estimates before starting any project so you know exactly what to expect."
+    },
+    {
+      "q": "Are you insured?",
+      "a": "Yes, we carry full liability insurance for every job, protecting you and your property."
+    },
+    {
+      "q": "How far in advance do I need to book?",
+      "a": "We typically can schedule within a few days, and we work to accommodate urgent requests whenever possible."
+    },
+    {
+      "q": "What size jobs do you handle?",
+      "a": "We handle everything from small repairs to larger multi-day projects. No job is too small."
+    },
+    {
+      "q": "Do you charge by the hour or by the project?",
+      "a": "We price both ways depending on the scope. We will give you a clear estimate upfront."
+    }
+  ],
+  "stat1_value": "4.7\u2605",
+  "stat1_label": "Google Rating",
+  "stat2_value": "173+",
+  "stat2_label": "Customer Reviews",
+  "stat3_value": "Free",
+  "stat3_label": "Estimates",
+  "stat4_value": "Licensed",
+  "stat4_label": "& Insured"
+}
